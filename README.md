@@ -5,5 +5,5 @@
 Умею работать с API через Postman и Swagger, владею навыками работы с Android Studio.
 
 Ссылки на социальные сети:
-t.me/Ne_pi_v027
+t.me/Ne_pi_v027,
 https://vk.ru/ne_pi_v07
