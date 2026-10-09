@@ -6,5 +6,5 @@
 
 Ссылки на социальные сети:
 
-t.me/Ne_pi_v027,
+https://t.me/Ne_pi_v027,
 https://vk.ru/ne_pi_v07
